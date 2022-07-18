@@ -7,7 +7,7 @@ public class Arraylistdemo
     {
         ArrayList al= new ArrayList();
         al .add("x");
-        al .add("z");
+        al .add("x");
         al .add("c");
         al .add("d");
         al .add("e");
